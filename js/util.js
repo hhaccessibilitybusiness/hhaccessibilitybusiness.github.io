@@ -1,1 +1,1 @@
-HOST = "https://macinternship2.herokuapp.com"; 
+HOST = "https://hhaccessibility.herokuapp.com"; 
